@@ -1,0 +1,241 @@
+/* 
+  Localizable.strings
+  ServiceProvider
+
+  Created by mac on 16/03/20.
+  Copyright © 2020 mac. All rights reserved.
+*/
+
+
+"No Internet Connection. Make sure your device is connected to the internet." = "No Internet Connection. Make sure your device is connected to the internet.";
+
+"OK" = "OK";
+
+"Loading" = "Loading";
+
+"Please Wait!!" = "Please Wait!!";
+
+"Cancel" = "Cancel";
+
+"DATE" = "DATE";
+
+"Done" = "Done";
+
+"Camera" = "Camera";
+
+"Gallery" = "Gallery";
+
+"Yes" = "Yes";
+
+"No" = "No";
+
+"No data available to show" = "No data available to show";
+
+"Please enter full name" = "Please enter full name";
+
+"Please enter email address" = "Please enter email address";
+
+"Please enter mobile number" = "Please enter mobile number";
+
+"Invalid email address" = "Invalid email address";
+
+"Please enter password" = "Please enter password";
+
+"Please enter confirm password" = "Please enter confirm password";
+
+"Password not matched" = "Password not matched";
+
+"Something went wrong" = "Something went wrong";
+
+"Profile Update Successfully" = "Profile Update Successfully";
+
+"Are you sure you want to log out?" = "Are you sure you want to log out?";
+
+"Thank You..!! We'll be in touch shortly." = "Thank You..!! We'll be in touch shortly.";
+
+"Write some message" = "Write some message";
+
+"Home" = "Home";
+
+"Profile" = "Profile";
+
+"Offers" = "Offers";
+
+"My Bookings" = "My Bookings";
+
+"My Wallet" = "My Wallet";
+
+"Change Password" = "Change Password";
+
+"Change Language" = "Change Language";
+
+"My Chat" = "My Chat";
+
+"About us" = "About us";
+
+"Notifications" = "Notifications";
+
+"Privacy Policy" = "Privacy Policy";
+
+"Terms and Condition" = "Terms and Condition";
+
+"Settings" = "Settings";
+
+"Help & Support" = "Help & Support";
+
+"Choose Language" = "Choose Language";
+
+"You have entered wrong email or password" = "You have entered wrong email or password";
+
+"Please check your email to reset" = "Please check your email to reset";
+
+"Members" = "Members";
+
+"Password changed successfully" = "Password changed successfully";
+
+"Please enter message" = "Please enter message";
+
+"Login" = "Login";
+
+"Forgot Password" = "Forgot Password";
+
+"Sign up" = "Sign up";
+
+"18-30 years old"=  "18-30 years old";
+
+"30-60 years old" = "30-60 years old";
+
+"60+ years old" = "60+ years old";
+
+"My Profile" = "My Profile";
+
+"Send message..." = "Send message...";
+
+"Write here..." = "Write here...";
+
+"Please verify your email and login to continue" = "Please verify your email and login to continue";
+
+"Your email account not verified" = "Your email account not verified";
+
+"Write message here..." = "Write message here...";
+
+"New password sent to your email" = "New password sent to your email";
+
+"New password sent to your mobile" = "New password sent to your mobile";
+
+"Thank you for registration" = "Thank you for registration";
+
+"location not found" = "location not found";
+
+"Profile updated successfully" = "Profile updated successfully";
+
+"Email Us" = "Email Us";
+
+"Share Application" = "Share Application";
+
+"Rate Application" = "Rate Application";
+
+"Logout" = "Logout";
+
+"Request send successfully" = "Request send successfully";
+
+"No employee assign to you, please wait" = "No employee assign to you, please wait";
+
+"Your employee is reached at your home" = "Your employee is reached at your home";
+
+"Edamah app is the destination to order your high-quality home services in less than a minute!" = "Edamah app is the destination to order your high-quality home services in less than a minute!";
+
+"Edamah application provides you with all home maintenance services you need." = "Edamah application provides you with all home maintenance services you need.";
+
+"To ensure Top Quality Service all our customer can rate their experience with us." = "To ensure Top Quality Service all our customer can rate their experience with us.";
+
+"Cart deleted successfully" = "Cart deleted successfully";
+
+"Cart updated successfully" = "Cart updated successfully";
+
+"Order Detail" = "Order Detail";
+
+"Booking Confirmed!" = "Booking Confirmed!";
+
+"We will assign your worker upto one hour before sheduld time." = "We will assign your worker upto one hour before sheduld time.";
+
+"Booking Assigned!" = "Booking Assigned!";
+
+"Booking In Progress!" = "Booking In Progress!";
+
+"You have a Champion assigned for this job , his name is" = "You have a Champion assigned for this job , his name is";
+
+"Your booking is completed by " = "Your booking is completed by ";
+
+"Order Status:" = "Order Status:";
+
+"Provide Feedback" = "Provide Feedback";
+
+"This job is completed from Champion so now please provide feedback for him." = "This job is completed from Champion so now please provide feedback for him.";
+
+"Booking Completed!" = "Booking Completed!";
+
+"Your booking is completed for" = "Your booking is completed for";
+
+"Order Status: Finish" = "Order Status: Finish";
+
+"Enter your comment" = "Enter your comment";
+
+"Your Feedback" = "Your Feedback";
+
+"Rated Successfully" = "Rated Successfully";
+
+"Address Deleted successfully" = "Address Deleted successfully";
+
+"Profile updated successfully" = "Profile updated successfully";
+
+"Choose Category" = "Choose Category";
+
+"Item Added Successfully" = "Item Added Successfully";
+
+"Please clear the cart before selecting this item" = "Please clear the cart before selecting this item";
+
+"Order Request" = "Order Request";
+
+"Total:" = "Total:";
+
+"Search Location" = "Search Location";
+
+"Saved Address" = "Saved Address";
+
+"Add New Address" = "Add New Address";
+
+"Address Saved Successfully" = "Address Saved Successfully";
+
+"Order ID:" = "Order ID:";
+
+"Total cost:" = "Total cost:";
+
+"Job Category:" = "Job Category:";
+
+"Open" = "Open";
+
+"Coupon applied successfully" = "Coupon applied successfully";
+
+"Remaining time:" = "Remaining time:";
+
+"min" = "min";
+
+"sec" = "sec";
+
+"Enter" = "Enter";
+
+"The mobile number is not exists" = "The mobile number is not exists";
+
+"Submit" = "Submit";
+
+"Incorrect code." = "Incorrect code.";
+
+"Your account blocked by admin" = "Your account blocked by admin";
+
+"Order Id:" = "Order Id:";
+
+"Place of service" = "Place of service";
+
+"Required On:" = "Required On:";
+

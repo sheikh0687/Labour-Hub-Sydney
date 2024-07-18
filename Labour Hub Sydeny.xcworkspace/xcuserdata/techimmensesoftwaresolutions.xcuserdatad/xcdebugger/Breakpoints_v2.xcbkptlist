@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2EED3EAB-E722-429A-92D1-6E0EB1F39135"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B9E119B-855A-4830-BC22-DFC06DE1B808"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Labour Hub Sydeny/Controllers/EmployeVC/EmployeeProjectDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "171"
+            endingLineNumber = "171"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1B9E119B-855A-4830-BC22-DFC06DE1B808 - 739a4b310f11df0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Labour_Hub_Sydeny.EmployeeProjectDetails.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "Labour Hub Sydeny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/techimmensesoftwaresolutions/Desktop/TechImmense%20Projects/Labour%20Hub%20Sydeny/Labour%20Hub%20Sydeny/Controllers/EmployeVC/EmployeeProjectDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "170"
+                  endingLineNumber = "170"
+                  offsetFromSymbolStart = "660">
+               </Location>
+               <Location
+                  uuid = "1B9E119B-855A-4830-BC22-DFC06DE1B808 - 739a4b310f11df6f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Labour_Hub_Sydeny.EmployeeProjectDetails.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "Labour Hub Sydeny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/techimmensesoftwaresolutions/Desktop/TechImmense%20Projects/Labour%20Hub%20Sydeny/Labour%20Hub%20Sydeny/Controllers/EmployeVC/EmployeeProjectDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "660">
+               </Location>
+               <Location
+                  uuid = "1B9E119B-855A-4830-BC22-DFC06DE1B808 - 739a4b310f11df6f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Labour_Hub_Sydeny.EmployeeProjectDetails.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "Labour Hub Sydeny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/techimmensesoftwaresolutions/Desktop/TechImmense%20Projects/Labour%20Hub%20Sydeny/Labour%20Hub%20Sydeny/Controllers/EmployeVC/EmployeeProjectDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "680">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4555D393-EEEF-4FE4-8782-FC68E9117658"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Labour Hub Sydeny/Controllers/EmployeVC/EmployeeProjectDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "172"
+            endingLineNumber = "172"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4555D393-EEEF-4FE4-8782-FC68E9117658 - 739a4b310f11df6f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Labour_Hub_Sydeny.EmployeeProjectDetails.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "Labour Hub Sydeny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/techimmensesoftwaresolutions/Desktop/TechImmense%20Projects/Labour%20Hub%20Sydeny/Labour%20Hub%20Sydeny/Controllers/EmployeVC/EmployeeProjectDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "832">
+               </Location>
+               <Location
+                  uuid = "4555D393-EEEF-4FE4-8782-FC68E9117658 - 739a4b310f11df48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Labour_Hub_Sydeny.EmployeeProjectDetails.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "Labour Hub Sydeny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/techimmensesoftwaresolutions/Desktop/TechImmense%20Projects/Labour%20Hub%20Sydeny/Labour%20Hub%20Sydeny/Controllers/EmployeVC/EmployeeProjectDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "172"
+                  endingLineNumber = "172"
+                  offsetFromSymbolStart = "832">
+               </Location>
+               <Location
+                  uuid = "4555D393-EEEF-4FE4-8782-FC68E9117658 - 739a4b310f11df48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Labour_Hub_Sydeny.EmployeeProjectDetails.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "Labour Hub Sydeny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/techimmensesoftwaresolutions/Desktop/TechImmense%20Projects/Labour%20Hub%20Sydeny/Labour%20Hub%20Sydeny/Controllers/EmployeVC/EmployeeProjectDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "172"
+                  endingLineNumber = "172"
+                  offsetFromSymbolStart = "852">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0347E6A0-E135-4305-86E4-6B7938DA40E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Labour Hub Sydeny/Controllers/EmployeVC/EmployeeProjectDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98EAAEC3-DFE9-4107-A470-DDCBC2A2FD66"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Labour Hub Sydeny/Controllers/EmployeVC/EmployeeProjectDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "getEmployeProjectDetials()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "98EAAEC3-DFE9-4107-A470-DDCBC2A2FD66 - 51777acd199485c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DefaultDataResponse) -&gt; () in Labour_Hub_Sydeny.EmployeeProjectDetails.getEmployeProjectDetials() -&gt; ()"
+                  moduleName = "Labour Hub Sydeny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/techimmensesoftwaresolutions/Desktop/TechImmense%20Projects/Labour%20Hub%20Sydeny/Labour%20Hub%20Sydeny/Controllers/EmployeVC/EmployeeProjectDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "29420">
+               </Location>
+               <Location
+                  uuid = "98EAAEC3-DFE9-4107-A470-DDCBC2A2FD66 - 51777acd19948426"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DefaultDataResponse) -&gt; () in Labour_Hub_Sydeny.EmployeeProjectDetails.getEmployeProjectDetials() -&gt; ()"
+                  moduleName = "Labour Hub Sydeny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/techimmensesoftwaresolutions/Desktop/TechImmense%20Projects/Labour%20Hub%20Sydeny/Labour%20Hub%20Sydeny/Controllers/EmployeVC/EmployeeProjectDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "29896">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "035D2483-D8B3-44EC-8E3F-267B3E441E06"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Labour Hub Sydeny/Controllers/EmployeVC/EmployeeProjectDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "getEmployeProjectDetials()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8DA7D33-4AAD-47B6-B9DE-030B18EACF3A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Labour Hub Sydeny/Controllers/EmployeVC/EmployeeProjectDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "getEmployeProjectDetials()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4CDDB305-3576-4C42-9BAD-0108E1B861D1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Labour Hub Sydeny/Controllers/EmployeVC/EmployeNewTimesheetVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "217"
+            endingLineNumber = "217"
+            landmarkName = "btnStartTime(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCAC5ABA-6A8D-42FE-B9B6-53D0554FE11B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Labour Hub Sydeny/Controllers/EmployeVC/EmployeNewTimesheetVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "225"
+            endingLineNumber = "225"
+            landmarkName = "btnEndTime(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
